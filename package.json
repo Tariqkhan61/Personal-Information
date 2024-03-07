@@ -1,0 +1,12 @@
+{
+  "name": "bio-data",
+  "version": "1.0.0",
+  "description": "In this Typescript file I created My Biodata(Personal Information",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Tariq Mahboob (00045915)",
+  "license": "ISC"
+}
